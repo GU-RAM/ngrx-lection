@@ -1,0 +1,44 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "The Shawshank Redemption"
+    },
+    {
+      "id": 2,
+      "name": "The Godfather"
+    },
+    {
+      "id": 3,
+      "name": "The Godfather: Part II"
+    },
+    {
+      "id": 4,
+      "name": "The Dark Knight"
+    },
+    {
+      "id": 5,
+      "name": "12 Angry Men"
+    },
+    {
+      "id": 6,
+      "name": "Schindler's List"
+    },
+    {
+      "id": 7,
+      "name": "The Lord of the Rings: The Return of the King"
+    },
+    {
+      "id": 8,
+      "name": "Pulp Fiction"
+    },
+    {
+      "id": 9,
+      "name": "The Good, the Bad and the Ugly"
+    },
+    {
+      "id": 10,
+      "name": "Forrest Gump"
+    }
+  ]
+}
